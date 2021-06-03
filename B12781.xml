@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles to be performed by vertue of our commission of sale annexed, touching forrests, parkes, and chases.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12781</idno><idno type="EEBO-CITATION">99892807</idno>
+  <idno type="VID">187201</idno>
+  <idno type="EEBO-PROQUEST">2240920637</idno>
+  
+            <idno type="STC">STC 8437</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[105]</idno>
+            <idno type="PROQUEST">ocm99892807</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892807e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12781)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187201)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[105])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles to be performed by vertue of our commission of sale annexed, touching forrests, parkes, and chases.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1609.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Instructions to the Kings surveyors concerning sale of wood and care of the forests. Cf. STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Forests and forestry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="articles">
+            <pb facs="tcp:187201:1"/>
+            <head>¶ Articles to be performed by vertue of our Commission of Sale annexed, touching Forrests, <hi>Parkes, and Chases.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>NPRIMIS, that you haue a speciall regard, that in the Sale,</hi> no Tree be taken in Forrest, Chase or Parke, which carieth not some apparent marke of decay, nor any Tree which you finde marked by our Officers of our Nauie.</p>
+            <p>
+               <hi>Item</hi> that of decaying Trees, there be not sold in any Forrest, Parke or Chase, aboue two of the hundreth respecting the whole number of Trees surueyed, or to be surueyed, nor any Tree to be cut, other then in places assented vnto, by such as wee haue appoynted to take care for the beautie of the Forrest, Parke or Chase, and foode for our Deere, nor any tree to bee cut or caried in fence time, to the disturbing of our Game, and that you may sell such two of the hundreth in places so assented to.</p>
+            <p>
+               <hi>Item</hi> for meere Dottards, and Trees so decayed, that they beare no vert, seruiceable for browse for our Deere, to sell of them what the Countrey will vent, and at valueable rates, and the smal<g ref="char:EOLhyphen"/>lest of them to leaue for the Keepers fewell, as shall be hereafter assigned for him to haue by fu<g ref="char:EOLhyphen"/>ture Warrant, And you must also prouide and foresee, that all sorts of Trees which shall be cut this season in any of our Forrests, Parkes, and Chases, bee cut and caried thence before <hi>All Saints-tide</hi> next, or else the Buyer to loose the said Trees then left vncaried.</p>
+            <p>
+               <hi>Item</hi> whereas by our Commission hereunto annexed wee haue appointed the chiefe Officer of our Forrests, Parkes and Chases to be of the <hi>Quorum,</hi> with you <hi>A. B.</hi> whome wee haue especially authorized for this seruice: You shall hereby vnderstand that wee doe not determine to tye him or them personally to attend the execution of all things incident to this sale, but onely to assigne what number of Trees shall be taken, and in what places they may bee spared without any ble<g ref="char:EOLhyphen"/>mish to the beautie of our aforesaid Parkes, Forrests, and Chases, wherein wee doe commaund you <hi>A. B.</hi> to conforme your selfe, because in that particular we doe repose principall confidence in his iudgement and discretion.</p>
+         </div>
+         <div type="instructions">
+            <head>¶ Instructions to be obserued for Sales in our Mannors, Granges, Farmes and Tenements.</head>
+            <p>
+               <hi>ITEM</hi> as we haue prescribed you to sell in our Forrests, Parkes, and Chases, of Trees that beare vert, onely such as are decaying, and that not aboue two in the hundred: so although we meane not to limit you so particular a proportion for sales in our Mannors, Granges, Farmes and Tenements; yet we would haue you know that it is our pleasure, wheresoeuer you sell any Trees thereupon, that you haue a principall care, to forbeare the felling of any Trees, or faire Tufts so neere the Scite or mansion house (if there be any of any note) as may disgrace the habi<g ref="char:EOLhyphen"/>tation, and likewise to giue warning to our particular Woodwards there, that notwithstanding any warrants which may come vnto them, or haue come, for falling, or selling wood hereafter, that they also haue the same respect, And further, that you bee very carefull to leaue in other places vpon the premisses sufficient timber and wood growing, for the continuall maintenance and reparations of the premisses, and vse of his Maiesties Tenants from time to time. All which directions first carefully obserued, you may then sell such and so many Trees, timber and other vpon our said Mannors, Granges, Farmes and Tenements, as shall be thought fit by you <hi>A. B.</hi> our particular Surueyour, one of the next Iustices of the Peace, the Surueyour of the Countie of our Lands where such sales shall be made, or any two of you, whereof you <hi>A. B.</hi> to be alwayes one.</p>
+            <pb facs="tcp:187201:2"/>
+            <p>
+               <hi>Item</hi> for timber and other wood, growing vpon Copiholds of Inheritance, that you make no sale thereof, except the Copiholders themselues doe seeke it at your hand, whereby they may be more sure to haue the same vpon all necessary occasions at their owne voluntary disposition.</p>
+            <p>
+               <hi>Item</hi> whereas you <hi>A. B.</hi> are now particularly chosen and trusted in this inployment, for perfor<g ref="char:EOLhyphen"/>mance whereof wee haue appointed you sufficient reward out of our owne Treasure; wee doe hereby straitly charge and command you, to forbeare to exact any fees from our Subiects, or to put them to any other payment, then such as shall appeare to bee solely due to vs for the Woodes whereof you make sale, And that before you make any sale, you faile not publiquely to pro<g ref="char:EOLhyphen"/>claime your sale in the next market Towne, that men may know there is such a purpose in hand.</p>
+            <p>
+               <hi>Item,</hi> that before you doe make any generall Sale in grosse, of any great quantitie of Trees to any particular person, you doe first make offer of such quantitie to our Tenants dwelling vpon the premisses, and next to such other our louing Subiects thereabouts, as may be necessary for them, in case they shall without delay resort vnto you, and be willing to pay according to the rate you might sell otherwise. And their necessities serued, or they refusing to buy at the said rates without delay, then you may sell to other in grosse such quantities as you shall finde may most conueniently be spared, and for such prices as shall be for our best profit. And herein wee trust you will carie your selfe so, as may be most for our good, and the generall reliefe of our Subiects that lacke timber, and not for your owne particular interest.</p>
+         </div>
+         <div type="instructions">
+            <head>¶ For increase of timber and fire wood in Forrests, Parkes, Chases, Mannors, and Tenancies to future ages.</head>
+            <p>TO renew our ancient copices in places fit.</p>
+            <p>To replant new Copices, where the soyle will naturally breed wood, where it may bee conueniently done without impediment to our Game, or disgrace of our Forrests, Parkes or Chases.</p>
+         </div>
+         <div type="instructions">
+            <head>¶ For wastes and spoiles in what place or places soeuer.</head>
+            <p>WHere wastes haue beene committed, to informe your selues thereof by all wayes and meanes, to learne when, and by whom, those wastes haue beene committed, as also to whom any Timber trees, or any other Trees, or fire wood, haue beene sold, giuen, taken, or deliuered, by whom, when, where, and by what warrant, and what was answered for the same, and what was the value thereof, to the onely end, the seller of the same may an<g ref="char:EOLhyphen"/>swere the value thereof.</p>
+            <p>The Commissions for sale in all the Articles of these Instructions to bee directed to the parti<g ref="char:EOLhyphen"/>culer Surueiour, the Surueiour of the Countie for Mannors, the Surueiour generall of the Woods, the next Iustice of the Peace, who, nor none of his Ancestors, nor any whose estate he hath, hath had any of the Kings woods there, in Lease, or any office concerning the Kings woods since <hi>primo Elizabeth,</hi> or any two of them, whereof <hi>A. B.</hi> to be alwayes one.</p>
+            <p>The like Articles also in all points, and to all intents to bee performed by the now Commissio<g ref="char:EOLhyphen"/>ners for sales of wood, in our Forrests, Parkes, Chases, Mannors, Granges, Farmes, and Te<g ref="char:EOLhyphen"/>nements, within our Dutchy of Lancaster, and thereunto in any place belonging.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent <hi>Maiestie.</hi> ANNO DOM. 1609.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
